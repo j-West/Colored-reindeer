@@ -1,6 +1,6 @@
 # Colored Reindeer
 
-## Twelfth exercise in front-end-milestones/the-static-web
+## 12th exercise in front-end-milestones/the-static-web
 
 ### Instructions for exercise
 
